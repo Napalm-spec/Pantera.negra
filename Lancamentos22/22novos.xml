@@ -13,9 +13,12 @@
     <item>
         <title>ANIME</title>
         <link>http://maximus44.antaeus.feralhosting.com/media/Filmes/13.Minutes.2021.mp4</link>
-        <thumbnail>http://channel.png</thumbnail>
+	<subtitle>http://maximus44.antaeus.feralhosting.com/media/Filmes/SRT/13.Minutes.2021.srt</subtitle>
+        <thumbnail>https://www.themoviedb.org/t/p/original/6j8DKmvVY8uQyXm7uiYcQZ897Rw.jpg</thumbnail>
+	<fanart>https://www.themoviedb.org/t/p/original/uUv7s3BSjN9Fb0OQrUXMv54EVKR.jpg</fanart>
         <genre>Animation</genre>
-        <info>Anime teste</info>
+        <info>Quando um novo dia começa na pequena cidade americana de Minninnewah, os residentes começam o dia tão comum quanto o seguinte. 
+A Mãe Natureza, no entanto, tem outros planos para eles. Os habitantes têm apenas 13 minutos para buscar abrigo antes que o maior tornado já tenha devastado a cidade, deixando-os lutando para proteger seus entes queridos e lutando por suas vidas.</info>
         <date>08.02.2022</date>  <!-- format - dd.mm.yyyy -->
         <epg></epg>  <!-- See daschacka's post - http://forum.xbmc.org/showpost.php?p=936228&postcount=1076 -->
         <fanart>http://fanart.jpg</fanart>
