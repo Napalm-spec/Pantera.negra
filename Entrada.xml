@@ -14,10 +14,11 @@
 	<!-- opicional -->
     
     <channel>
-        <name>ANIMES</name>
-        <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
-        <fanart>http://community-links.googlecode.com/svn/icons/news-fanart.jpg</fanart>
-		<info>Animes</info>
+        <name>13 Minutes</name>
+        <thumbnail>https://www.themoviedb.org/t/p/original/6j8DKmvVY8uQyXm7uiYcQZ897Rw.jpg</thumbnail>
+        <fanart>https://www.themoviedb.org/t/p/original/uUv7s3BSjN9Fb0OQrUXMv54EVKR.jpg</fanart>
+		<info>Quando um novo dia começa na pequena cidade americana de Minninnewah, os residentes começam o dia tão comum quanto o seguinte. 
+A Mãe Natureza, no entanto, tem outros planos para eles. Os habitantes têm apenas 13 minutos para buscar abrigo antes que o maior tornado já tenha devastado a cidade, deixando-os lutando para proteger seus entes queridos e lutando por suas vidas.</info>
 		<externallink>https://raw.githubusercontent.com/Napalm-spec/Pantera.negra/master/Lancamentos22/22novos.xml</externallink>
     </channel>
 	
