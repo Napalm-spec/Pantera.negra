@@ -1,6 +1,6 @@
 <item>
 <title>[B][COLOR white]Batman [/COLOR][/B]</title>
-<link>plugin://plugin.video.torrest/play_magnet?magnet=magnet:?xt=urn:btih:0c9fd0791903561bdabccec8cf7a14c16d7b4c5f</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0c9fd0791903561bdabccec8cf7a14c16d7b4c5f</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/wd7b4Nv9QBHDTIjc2m7sr0IUMoh.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/b0PlSFdDwbyK0cf5RxwDpaOJQvQ.jpg</fanart>
 <genre>Ação, Crime, Mistério, Thriller</genre>
@@ -15,7 +15,7 @@
 
 <item>
 <title>[B][COLOR white]Passado Violento [/COLOR][/B]</title>
-<link>plugin://plugin.video.torrest/play_magnet?magnet=magnet:?xt=urn:btih:ce1bfc925d2aa682c011076e20a61c14177520c8</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ce1bfc925d2aa682c011076e20a61c14177520c8</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/4cxFO7AlQOotgA45nuuej2DMyiw.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/k0bZfbtwZvMtKazaabeLVGQLhGg.jpg</fanart>
 <genre>Drama, Crime, Suspense</genre>
