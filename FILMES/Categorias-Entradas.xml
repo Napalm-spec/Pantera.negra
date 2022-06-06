@@ -47,7 +47,7 @@ A Mãe Natureza, no entanto, tem outros planos para eles. Os habitantes têm ape
 	
 	
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-	
+	https://raw.githubusercontent.com/Napalm-spec/Pantera.negra/master/FILMES/Com%C3%A9dia.xml
 	
 	<channel>
         <name>[B][COLOR red]●::[/COLOR] [COLOR white] Animação | [COLOR red]7PLUS[/COLOR][/B]</name>
@@ -55,6 +55,16 @@ A Mãe Natureza, no entanto, tem outros planos para eles. Os habitantes têm ape
         <fanart>http://community-links.googlecode.com/svn/icons/news-fanart.jpg</fanart>
 		<info>Canais do farruk</info>
 		<externallink>https://raw.githubusercontent.com/Napalm-spec/Pantera.negra/master/FILMES/Anima%C3%A7%C3%A3o.xml</externallink>
+    </channel>
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	
+<channel>
+        <name>[B][COLOR red]●::[/COLOR] [COLOR white] Comédia | [COLOR red]7PLUS[/COLOR][/B]</name>
+        <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
+        <fanart>http://community-links.googlecode.com/svn/icons/news-fanart.jpg</fanart>
+		<info>Canais do farruk</info>
+		<externallink>https://raw.githubusercontent.com/Napalm-spec/Pantera.negra/master/FILMES/Com%C3%A9dia.xml</externallink>
     </channel>
 	
 
