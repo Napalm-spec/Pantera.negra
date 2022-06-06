@@ -67,5 +67,15 @@ A Mãe Natureza, no entanto, tem outros planos para eles. Os habitantes têm ape
 		<externallink>https://raw.githubusercontent.com/Napalm-spec/Pantera.negra/master/FILMES/Com%C3%A9dia.xml</externallink>
     </channel>
 	
-
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+	
+<channel>
+        <name>[B][COLOR red]●::[/COLOR] [COLOR white] Heróis | [COLOR red]7PLUS[/COLOR][/B]</name>
+        <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
+        <fanart>http://community-links.googlecode.com/svn/icons/news-fanart.jpg</fanart>
+		<info>Canais do farruk</info>
+		<externallink>https://raw.githubusercontent.com/Napalm-spec/Pantera.negra/master/FILMES/Super-Herois.xml</externallink>
+    </channel>
+	
+	
 </channels>
