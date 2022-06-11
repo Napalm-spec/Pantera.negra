@@ -86,5 +86,17 @@ https://raw.githubusercontent.com/Napalm-spec/Pantera.negra/master/FILMES/Drama.
 		<info>Canais do farruk</info>
 		<externallink>https://raw.githubusercontent.com/Napalm-spec/Pantera.negra/master/FILMES/Drama.xml</externallink>
     </channel>	
+
+	
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++	
+	
+<channel>
+        <name>[B][COLOR red]●::[/COLOR] [COLOR white] Suspense | [COLOR red]7PLUS[/COLOR][/B]</name>
+        <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
+        <fanart>http://community-links.googlecode.com/svn/icons/news-fanart.jpg</fanart>
+		<info>Canais do farruk</info>
+		<externallink>https://raw.githubusercontent.com/Napalm-spec/Pantera.negra/master/FILMES/Suspense.xml</externallink>
+    </channel>		
+	
 	
 </channels>
